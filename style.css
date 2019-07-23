@@ -1,0 +1,62 @@
+body {
+    background-color: rgb(53,53,53);
+    color: whitesmoke;
+}
+
+.top {
+    text-align: center;
+}
+
+header {
+    font-family: "Tangerine", cursive;
+    font-size: 72px;
+    line-height: 92px;
+}
+
+h3 {
+    font-family: "Unica One", cursive;
+    font-size: 26px;
+    line-height: 2px;
+}
+
+img {
+    width: 540px;
+}
+
+
+h2 {
+    font-family: 'Unica One', cursive;
+    margin: 16px;
+}
+
+.text {
+    font-family: "dosis", cursive;
+   
+}
+
+.watch_container {
+    border: solid 2px #FDeFA6;
+    background-color: #1A1818;
+    border-radius: 13px;
+    word-wrap: normal;
+    line-height: 20px;
+    padding: 16px;
+    margin: 15px 50px;
+}
+
+.watch_container img {
+    float: left;
+    height: 200px;
+    width: auto;
+}
+
+.watch_container p{
+    font-size: 16px;
+}
+
+footer {
+    text-align: center;
+    font-family: "Dosis", cursive;
+    font-size: 30px;
+    margin: 25px;
+}
